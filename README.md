@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This is a movie search react app where you can search and enjoy your favourite moives
+This is only front-End project 
 
 ## Available Scripts
 
