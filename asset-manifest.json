@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-arena/static/css/main.334bdeb1.css",
+    "main.js": "/movie-arena/static/js/main.745fb5d7.js",
+    "index.html": "/movie-arena/index.html",
+    "static/media/search.svg": "/movie-arena/static/media/search.bf27b65527bb3704e08014d66ef191ef.svg",
+    "main.334bdeb1.css.map": "/movie-arena/static/css/main.334bdeb1.css.map",
+    "main.745fb5d7.js.map": "/movie-arena/static/js/main.745fb5d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.745fb5d7.js"
+  ]
+}
