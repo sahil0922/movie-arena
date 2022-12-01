@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# "Movie Arena" - an movie search web application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 This is a movie search react app where you can search and enjoy your favourite moives
